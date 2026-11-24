@@ -31,6 +31,11 @@ A full-stack Notes Application built with the MERN stack (Node.js, Express, Reac
 *   Pino & Pino-HTTP (Logging)
 *   Mocha & Chai (Testing)
 
+
+
+## Developed by
+* Hifza Khan
+
 ## How to Run Locally
 
 ### 1. Clone the repository
