@@ -2,7 +2,7 @@
 
 A full-stack Notes Application built with the MERN stack (Node.js, Express, React, MySQL). This project was completed as part of the 10Pearls Shine Program Cohort 10 assignment.
 
-## 🚀 Features
+## Features
 
 *   **User Authentication:** Secure signup, login, and JWT-based authorization.
 *   **Email Verification (OTP):** Users receive a 6-digit OTP via email to verify their account before logging in.
@@ -14,7 +14,7 @@ A full-stack Notes Application built with the MERN stack (Node.js, Express, Reac
 *   **Application Logging:** Backend logs HTTP requests, user activities, and errors using `Pino Logger`.
 *   **Unit Testing:** Backend API tests written with Mocha, Chai, and Chai-HTTP.
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Frontend:**
 *   React.js (Vite)
@@ -31,7 +31,7 @@ A full-stack Notes Application built with the MERN stack (Node.js, Express, Reac
 *   Pino & Pino-HTTP (Logging)
 *   Mocha & Chai (Testing)
 
-## ⚙️ How to Run Locally
+## How to Run Locally
 
 ### 1. Clone the repository
 ```bash
